@@ -15,7 +15,7 @@ Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoud
     1. [Licenties en abonnementen](pages/partners.md)
     2. (open source) softwarepaketten
     3. eigen ontwikkelde applicaties
-2. Digitale communicatie
+2. [Digitale communicatie](pages/digitalecommunicatie.md)
 3. Meten is weten (hoe een digitaal experiment opzetten en evalueren). 
 4. Optimalisaties
 
