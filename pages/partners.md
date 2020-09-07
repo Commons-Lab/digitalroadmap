@@ -13,6 +13,7 @@
 - google drive met mappenstructuur voor alle processen van commons lab
 - erkend bij socialware: 
     - gebruik van gsuite via socialeware erkenning
+- slack account voor non-profits
 
 ## Plan van aanpak
 Erkenning aanvragen bij microsoft voor non-profit (rechtstreeks): [handleiding](https://nonprofit.microsoft.com/en-us/getting-started)
