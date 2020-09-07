@@ -14,13 +14,13 @@ Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoud
 0. [Vooraf](pages/vooraf.md)
 1. Gebruikte partners, tools en apps
     1. [Licenties en abonnementen](pages/partners.md)
-    2. (open source) softwarepaketten
-    3. eigen ontwikkelde applicaties
-    4. hosting en omgevingen
+    2. [(open source) softwarepaketten](pages/software.md)
+    3. [eigen ontwikkelde applicaties](pages/development.md)
+    4. [hosting en omgevingen](pages/hosting.md)
 2. [Digitale communicatie](pages/digitalecommunicatie.md)
-3. Meten is weten (hoe een digitaal experiment opzetten en evalueren). 
-4. Optimalisaties
-5. Financiële en praktische implicaties op de organisatie
+3. [Meten is weten](pages/metenisweten.md) (hoe een digitaal experiment opzetten en evalueren). 
+4. [Optimalisaties](pages/optimalisaties.md)
+5. [Financiële en praktische implicaties op de organisatie](pages/financieel.md)
 
 ## plan van aanpak
 
