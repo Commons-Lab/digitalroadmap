@@ -10,7 +10,7 @@ De digitale werkwijze van Commons Lab weerspiegelt de missie van de organisatie 
 Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoudig deelbaar is en beschikbaar wordt gesteld onder een [GNU 3.0 public license](https://github.com/Commons-Lab/digitalroadmap/blob/master/LICENSE)
 
 ## Inhoudstafel
-0. Vooraf
+0. [Vooraf](pages/vooraf.md)
 1. Gebruikte partners, tools en apps
     1. [Licenties en abonnementen](pages/partners.md)
     2. (open source) softwarepaketten
