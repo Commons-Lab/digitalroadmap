@@ -12,7 +12,7 @@ Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoud
 ## Inhoudstafel
 0. Vooraf
 1. Gebruikte partners, tools en apps
-    1. licenties en abonnementen
+    1. [Licenties en abonnementen](pages/partners.md)
     2. (open source) softwarepaketten
     3. eigen ontwikkelde applicaties
 2. Digitale communicatie
