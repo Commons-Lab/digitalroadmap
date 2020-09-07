@@ -1,4 +1,5 @@
 # digitalroadmap
+praktisch: bijhorend kanbanbord is te vinden via [deze link](https://github.com/orgs/Commons-Lab/projects/1)
 
 ## Doel
 De digitale werkwijze van Commons Lab weerspiegelt de missie van de organisatie en vertrekt daarom van volgende subdoelen:
