@@ -26,7 +26,11 @@ Wordpress + Woocommerce vs. Shopify vs. ....
 Wordpress + Learnpress vs ...
 
 ### Open data
-Wordpress Api uitwerken
+In het Wordpress pakket zit ook een [REST API](https://developer.wordpress.org/rest-api/) ingebouwd. Het is dus mogelijk om de data van Commons Lab via een API te ontsluiten. Bij het ontwerp van elke website dient dus ook de afweging gemaakt te worden: welke tabellen/Data en in welke vorm willen we uit deze website ontsluiten zodat andere organisaties en individuën hiermee aan de slag kunnen gaan.
+
+**TODO**:
+- afwegingskader en flow toevoegen
+- basistemplate in git voorzien zodat een API pagina aan een website kan worden toegevoegd.
 
 ## CRM
 Nog uit te werken: Hubspot vs Espo CRM (php based CRM)
