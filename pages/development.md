@@ -9,6 +9,8 @@ software afhankelijk is (dependencies), alsook veiligheidsissues met bestaande c
 Waarom kiezen voor gnu 3.0? 
 
 ## Uit te werken softwarepakketten
+- ticketsysteem
+- tijdsregistratie: loopt nu via een drive
 
 ## Waar leeft onze code
 verwijzing naar [hoofdstuk hosting](hosting.md)
