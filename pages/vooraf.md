@@ -14,6 +14,7 @@ Rond de volgende processen komt de vraag naar boven naar aan automatisering en/o
 - externe communicatie (websites, social media, ...)
 - CRM
 - verkoop 
+
 waarbij de laatste drie best een geïntegreerde aanpak hebben
 
 ## Adaptatie en Flow
