@@ -19,6 +19,14 @@ De bevraging die gebruikt werd door Commons Lab bij het opstellen van hun roadma
 
 Volgend proces ([TODO: link naar flowchart](vooraf.md)) wordt best doorlopen voor het implementeren van een nieuwe ICT tool. Belangrijk daarbij is ook het afwegingskader ([TODO: link naar afwegingskader](vooraf.md)) eerlijk wordt ingevuld. Vraag is niet enkel of de organisatie met de tools kan werken, maar ook of de implementatiekost en tijdskost opweegt t.o.v. de beoogde meerwaarde.
 
+Enkele kenmerken van de (huidige) medewerkers en gebruikers van de commons lab ict infrastructuur: 
+- de verdeling tussen windows en mac gebruikers is 50-50. Er zijn geen primaire linux gebruikers, een enkeling heeft hier ervaring mee. 
+- 2/3 van de gebruikers is professioneel bezig voor commons lab op mobile devices
+- gebruikers zijn bereid meer tijd te investeren in ICT tools of kleine problemen te ervaren als hierdoor deze meer open source zijn en in lijn van de missie van commons lab
+- er is leerbereidheid bij de gebruikers om met nieuwe tools te leren werken. De meerderheid kan hiervoor aan de slag met online handleidingen en video's, een enkeling heeft graag een persoonlijke uitleg.
+- structuur is belangrijk in tijden van information overload. De hoeveelheid informatie bij commons lab die bij gebruikers binnenkomt wordt als groot ervaren.
+- sociale media en het extern delen is niet vreemd bij gebruikers, maar de gebruikers zijn hier niet native in. Bij velen is dit een extra belasting.
+
 ## Data = verantwoordelijkheid
 Naast publieke data i.v.m commons experimenten gaan we in veel processen ook om met persoonsgegevens van freelancers, vrijwilligers, andere organisaties. Commons Lab besteedt hier aandacht aan en zorgt dat de organisatie voldoet aan de gdpr richtlijnen. Hiervoor steunen we op de tools die unizo heeft uitgewerkt [link](https://www.unizo.be/advies/trefwoord/gdpr#doe) en maken we de vertaalslag van deze tools gericht om Commons Initiatieven. 
 
