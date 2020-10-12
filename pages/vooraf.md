@@ -6,6 +6,15 @@ We zoeken een digitale strategie om volgende processen te ondersteunen:
 - documentatie
 - schaalbaarheid
 
+Rond de volgende processen komt de vraag naar boven naar aan automatisering en/of een digitale strategie: 
+- algemene tools (mail, bestanden, ...)
+- projectmanagement
+- boekhouding en administratie
+- externe communicatie (websites, social media, ...)
+- CRM
+- verkoop 
+waarbij de laatste drie best een geïntegreerde aanpak hebben
+
 ## Adaptatie en Flow
 Een ICT tool of werkproces implementeren gaat niet van de ene dag op de andere. Het slagen van een ICT tool is pas mogelijk wanneer dit voor alle teamleden een verbetering teweeg brengt en dit ook voor hen zo duidelijk is en door hen ook zo gepersipieerd wordt. Een goede afweging én voorbereiding is cruciaal om tot een succesverhaal te komen en de tool deel te laten uitmaken van het dna van Commons Lab.   
 
