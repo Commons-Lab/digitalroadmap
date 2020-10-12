@@ -1,6 +1,10 @@
 # Vooraf
 
-## Basisprincipes
+## Basisprincipes en uitdagingen
+We zoeken een digitale strategie om volgende processen te ondersteunen: 
+- administratie
+- documentatie
+- schaalbaarheid
 
 ## Adaptatie en Flow
 Een ICT tool of werkproces implementeren gaat niet van de ene dag op de andere. Het slagen van een ICT tool is pas mogelijk wanneer dit voor alle teamleden een verbetering teweeg brengt en dit ook voor hen zo duidelijk is en door hen ook zo gepersipieerd wordt. Een goede afweging én voorbereiding is cruciaal om tot een succesverhaal te komen en de tool deel te laten uitmaken van het dna van Commons Lab.   
