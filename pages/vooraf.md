@@ -1,10 +1,11 @@
 # Vooraf
 
 ## Basisprincipes en uitdagingen
-We zoeken een digitale strategie om volgende processen te ondersteunen: 
-- administratie
-- documentatie
-- schaalbaarheid
+We zoeken een digitale strategie om volgende uitdagingen aan te pakken:  
+- administratie: het moet correct opgeslagen en doorgegeven worden
+- efficientie: het moet draagbaar zijn voor medewerkers en vrijwilligers
+- documentatie: het moet gekend zijn voor medewerkers en vrijwilligers
+- schaalbaarheid: het moet naar de toekomst toe ook meer medewerkers en vrijwilligers en organisaties kunnen dragen
 
 Rond de volgende processen komt de vraag naar boven naar aan automatisering en/of een digitale strategie: 
 - algemene tools (mail, bestanden, ...)
