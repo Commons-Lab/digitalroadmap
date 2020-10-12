@@ -6,6 +6,7 @@ We zoeken een digitale strategie om volgende uitdagingen aan te pakken:
 - efficientie: het moet draagbaar zijn voor medewerkers en vrijwilligers
 - documentatie: het moet gekend zijn voor medewerkers en vrijwilligers
 - schaalbaarheid: het moet naar de toekomst toe ook meer medewerkers en vrijwilligers en organisaties kunnen dragen
+- open source of eerlijke software: we kiezen voor hetgeen waar we waarde mee delen als dit een kwalitatief evenwaardig alternatief is. 
 
 Rond de volgende processen komt de vraag naar boven naar aan automatisering en/of een digitale strategie: 
 - algemene tools (mail, bestanden, ...)
@@ -43,3 +44,4 @@ Enkele kenmerken van de (huidige) medewerkers en gebruikers van de commons lab i
 Naast publieke data i.v.m commons experimenten gaan we in veel processen ook om met persoonsgegevens van freelancers, vrijwilligers, andere organisaties. Commons Lab besteedt hier aandacht aan en zorgt dat de organisatie voldoet aan de gdpr richtlijnen. Hiervoor steunen we op de tools die unizo heeft uitgewerkt [link](https://www.unizo.be/advies/trefwoord/gdpr#doe) en maken we de vertaalslag van deze tools gericht om Commons Initiatieven. 
 
 ## Redundantie
+
