@@ -12,16 +12,17 @@ Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoud
 
 ## Inhoudstafel
 0. [Vooraf](pages/vooraf.md)
-1. Gebruikte partners, tools en apps
+1. [Analyse van de huidige werkwijze](pages/analyse.md)
+2. Gebruikte partners, tools en apps
     1. [Licenties en abonnementen](pages/partners.md)
     2. [(open source) softwarepaketten](pages/software.md)
     3. [eigen ontwikkelde applicaties](pages/development.md)
     4. [hosting en omgevingen](pages/hosting.md)
     5. [administratie en boekhouding](pages/administratie.md)
-2. [Digitale communicatie](pages/digitalecommunicatie.md)
-3. [Meten is weten](pages/metenisweten.md) (hoe een digitaal experiment opzetten en evalueren). 
-4. [Optimalisaties](pages/optimalisaties.md)
-5. [Financiële en praktische implicaties op de organisatie](pages/financieel.md)
+3. [Digitale communicatie](pages/digitalecommunicatie.md)
+4. [Meten is weten](pages/metenisweten.md) (hoe een digitaal experiment opzetten en evalueren). 
+5. [Optimalisaties](pages/optimalisaties.md)
+6. [Financiële en praktische implicaties op de organisatie](pages/financieel.md)
 
 ## plan van aanpak
 
