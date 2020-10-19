@@ -16,6 +16,7 @@ Rond de volgende processen komt de vraag naar boven naar aan automatisering en/o
 - CRM
 - verkoop 
 - HR en vrijwilligersbeleid
+- fondsenwerving (rond digitalisering)
 
 waarbij de laatste drie best een geïntegreerde aanpak hebben
 
