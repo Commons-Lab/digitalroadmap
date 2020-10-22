@@ -1,6 +1,6 @@
 # Analyse van de huidige werkwijze
 Op basis van een analyse van de huidige werkwijze worden de prioriteiten van het ICT beleid vastgelegd.
-Aan de hand van enkele cases worden de uitdagingen bepaald. Deze cases werden overlopen met de werkgroep ICT, het dagelijks bestuur en de groep van freelancers. 
+Aan de hand van enkele cases worden de uitdagingen bepaald. Deze cases werden overlopen met de werkgroep ICT, het dagelijks bestuur en de groep van freelancers. Doorheen dit proces wordt deze pagina aangepast en geupdate. 
 
 ## Cases
 ### Een commons experiment
@@ -21,3 +21,25 @@ aan projectmanagement te kunnen doen en op basis van deze methode wordt dan gezi
 
 In tussentijd wordt de mogelijkheid geboden om intern al aan de slag te gaan met onedrive, zonder daarbij al een richting aan te geven. Het dagelijks bestuur is al op deze 
 manier aan het werken.
+
+```
+TODO: 
+- onedrive opzetten om aan de slag te gaan binnen de raad van bestuur, dagelijks bestuur en organisatie als geheel: Thijs
+- "hoe pakt commons lab projectmanagement aan?" agenderen op dagelijks bestuur en freelance overleg: Koen, Thijs begeleid
+```
+
+### Communicatie
+
+```
+TODO: 
+-  
+
+```
+
+### Producten en diensten verkopen
+
+```
+TODO: 
+- experimenten opzetten met woocommerce voor evenementen (commons congres) en producten (coop2060): Koen en Thijs
+- projectplan/subsidieaanvraag uitwerken voor cooperatieve manier van online verkopen, de amazon van de commons: Thijs en ... 
+```
