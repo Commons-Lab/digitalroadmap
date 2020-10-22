@@ -37,6 +37,17 @@ TODO:
 ```
 
 ### Producten en diensten verkopen
+Vanuit verschillende collectieven komt de vraag voor hulp bij het verkopen van hun producten of diensten of voor het organiseren van samenaankopen. Volgende lessen en bedenkingen werden geuit: 
+- vanuit de samenaankoop van de regentonnen blijkt dat we tijdens het experimenteren zelf kort bij de regieknoppen willen zitten.
+- vanuit de open culture club blijkt dat van zodra het aantal aanbieders en producten sterk stijgt, woocommerce begint te stokken en andere oplossingen nodig zijn. 
+- algemeen is er buiten bij de theatergarage nog weinig ervaring met online verkopen.
+- er zijn tal van platformen die elk ook overhead nemen. Sommige van hen in lijn met onze filosofie, die elk hun eigenheden hebben, bv. [Open Collective](https://opencollective.com/)
+- wat is het verschil met bv. de webshop van voedselteams, die ook op een commons manier werken? 
+
+Vanuit deze bedenkingen wordt het volgende plan van aanpak naar voren geschoven: 
+- we experimenteren verder met woocommerce om ervaring op te bouwen rond online verkopen. De experimenten van coop2060 en het commons congres zijn hierin interessant. Dit hoeft niet complex te zijn met de standaard thema's van woocommerce. 
+- het grotere project, met een headless systeem werken we uit in een projectaanvraag waar we ook financiering voor zoeken. Dit project wordt de "coöperatieve Amazon", de webshop van de korte keten, ...
+
 
 ```
 TODO: 
