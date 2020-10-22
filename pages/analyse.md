@@ -7,7 +7,7 @@ Aan de hand van enkele cases worden de uitdagingen bepaald. Deze cases werden ov
 De eerste case omvat een commons experiment. Aan de hand van het voorbeeld van het wijklabo werd de case uitgewerkt. 
 In onderstaande flowchart kan je de uitgewerkte case terugvinden: 
 
-![flow van een commons experiment](../flow_commons%20experiment.png?raw=true)
+![flow van een commons experiment](../img/flow_commons%20experiment.png?raw=true)
 
 Momenteel is het CRM gedeelte kort samengevat: 
 - de mailbox van Koen Wynants
