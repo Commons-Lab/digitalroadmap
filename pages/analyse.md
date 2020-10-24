@@ -67,12 +67,13 @@ Er is nog geen duidelijk plan wat nu juist de website moet zijn en hoe de commun
 - wat als we al onze communcatie op pauze zetten buiten deze naar de overheid? 
 - goede content produceren zou in elk project dat we uitschrijven mee opgenomen moeten worden. Uit eerdere projecten blijkt dit enorm te renderen. 
 
-![Schematische voorstelling van de communicatie](../img/flow_commons%20experiment.png?raw=true)
+![Schematische voorstelling van de communicatie](../img/flow_commons_communicatie.png?raw=true)
 
 ```
 TODO: 
 -  communicatiedoelen vastleggen: raad van bestuur
 ```
+
 
 ### Producten en diensten verkopen
 Vanuit verschillende collectieven komt de vraag voor hulp bij het verkopen van hun producten of diensten of voor het organiseren van samenaankopen. Volgende lessen en bedenkingen werden geuit: 
