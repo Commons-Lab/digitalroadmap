@@ -28,6 +28,27 @@ TODO:
 - "hoe pakt commons lab projectmanagement aan?" agenderen op dagelijks bestuur en freelance overleg: Koen, Thijs begeleid
 ```
 
+In overleg met het dagelijks bestuur werd de flow van een project aangepast. Hierin werd gefocust op het proces van het binnenkomen van een project en het opstarten van het project en de projectleider. 
+De aangepaste flow met bedenkingen ziet er als volgt uit: 
+
+![flow van een commons experiment](../img/flow_commons%20experiment_na_dagelijks_bestuur.png?raw=true)
+
+Hieruit blijken volgende uitdagingen: 
+- een meer gestructureerde manier (CRM) is nodig om om te gaan met inkomende vragen en contacten
+- een snelle en vlotte besluitprocedure, die in lijn is met het idee van de commons is nodig voor het beslissingsproces. 
+- er is een opstartpakket met templates nodig voor projectleiders zodat ze bij de opstart van een project alle nodige documenten hebben: template map voorzien in het filesysteem
+- in het projectmanagement is er meer traing nodig
+- de basismethodologie die men volgt is 'getting things done', het systeem mag dit niet tegenwerken en moet dit idealiter ondersteunen. 
+
+```
+TODO: 
+- CRM systeem prioritair behandelen. Het file systeem beperkt klaarzetten, vooral voor de templates
+- uitzoeken of de getting things done methode eenvoudig te ondersteunen is met office365: Thijs
+- "hoe pakt commons lab projectmanagement aan?" agenderen op freelance overleg: Koen, Thijs begeleid
+```
+
+
+
 ### Communicatie
 Momenteel is de belangrijkste communicatie die met de (subsidierende) overheid. Deze is projectgebonden en loopt 
 goed. Daarnaast is er nog de communicatie op sociale media, voor door Koen en de website die ook door Koen wordt beheerd. 
