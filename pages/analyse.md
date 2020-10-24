@@ -39,6 +39,7 @@ Hieruit blijken volgende uitdagingen:
 - er is een opstartpakket met templates nodig voor projectleiders zodat ze bij de opstart van een project alle nodige documenten hebben: template map voorzien in het filesysteem
 - in het projectmanagement is er meer traing nodig
 - de basismethodologie die men volgt is 'getting things done', het systeem mag dit niet tegenwerken en moet dit idealiter ondersteunen. 
+- duidelijke documentatie is belangrijk, er komen al her en der kleine ondersteuningsvragen in het genre "hoe doe ik dit...". 
 
 ```
 TODO: 
