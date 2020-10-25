@@ -24,7 +24,7 @@ Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoud
     2. projectmanagement
     3. boekhouding en administratie
     4. [Digitale communicatie](pages/digitalecommunicatie.md)
-    5. CRM
+    5. [CRM en interne besluitvorming](pages/crm.md)
     6. [verkoop](pages/verkoop.md)
     7. HR en vrijwilligersbeleid
     8. fondsenwerving (rond digitalisering)
