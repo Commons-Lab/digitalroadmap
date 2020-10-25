@@ -20,7 +20,7 @@ Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoud
     4. [hosting en omgevingen](pages/hosting.md)
     5. [administratie en boekhouding](pages/administratie.md)
 3. De digitale wervan van Commons Lab
-    1. algemene tools (mail, bestanden, ...)
+    1. [algemene tools (mail, bestanden, ...)](pages/algemenetools.md)
     2. projectmanagement
     3. boekhouding en administratie
     4. [Digitale communicatie](pages/digitalecommunicatie.md)
