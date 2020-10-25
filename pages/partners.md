@@ -47,3 +47,11 @@ Mogelijk is bij socialware de interpretatie van de missie fout gelopen (overheid
     - '- een google profiel blijft nodig voor youtubebeheer
     - '- formulieren te implementeren in de website (haalbaar)
 
+
+```
+er werd gekozen voor office365 uit te rollen. Volgende stappen worden genomen: 
+- aanmaak van accounts voor freelancers en bestuurders
+- opzet sharepoint met documentatie over hoe te werken met office365
+- opzet basis mappenstructuur
+De implementatie hiervan wordt gedocumenteerd in [digitale werf: algemene tools](pages/algemenetools.md)
+```
