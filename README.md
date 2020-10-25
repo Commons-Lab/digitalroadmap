@@ -19,7 +19,15 @@ Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoud
     3. [eigen ontwikkelde applicaties](pages/development.md)
     4. [hosting en omgevingen](pages/hosting.md)
     5. [administratie en boekhouding](pages/administratie.md)
-3. [Digitale communicatie](pages/digitalecommunicatie.md)
+3. De digitale wervan van Commons Lab
+    1. algemene tools (mail, bestanden, ...)
+    2. projectmanagement
+    3. boekhouding en administratie
+    4. [Digitale communicatie](pages/digitalecommunicatie.md)
+    5. CRM
+    6. [verkoop](pages/verkoop.md)
+    7. HR en vrijwilligersbeleid
+    8. fondsenwerving (rond digitalisering)
 4. [Meten is weten](pages/metenisweten.md) (hoe een digitaal experiment opzetten en evalueren). 
 5. [Optimalisaties](pages/optimalisaties.md)
 6. [Financiële en praktische implicaties op de organisatie](pages/financieel.md)

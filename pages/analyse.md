@@ -83,6 +83,7 @@ Vanuit verschillende collectieven komt de vraag voor hulp bij het verkopen van h
 - algemeen is er buiten bij de theatergarage nog weinig ervaring met online verkopen.
 - er zijn tal van platformen die elk ook overhead nemen. Sommige van hen in lijn met onze filosofie, die elk hun eigenheden hebben, bv. [Open Collective](https://opencollective.com/)
 - wat is het verschil met bv. de webshop van voedselteams, die ook op een commons manier werken? 
+- ieder wil altijd zijn eigen stijl en manier van werken, hoe zorgen we ervoor dat er wordt samengewerkt?
 
 Vanuit deze bedenkingen wordt het volgende plan van aanpak naar voren geschoven: 
 - we experimenteren verder met woocommerce om ervaring op te bouwen rond online verkopen. De experimenten van coop2060 en het commons congres zijn hierin interessant. Dit hoeft niet complex te zijn met de standaard thema's van woocommerce. In dit experiment moeten we bewust aandacht besteden aan hoe we data verzamelen en wat we daarmee kunnen doen in het grotere plaatje. 
