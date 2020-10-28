@@ -7,6 +7,8 @@ Op dit moment maakt Commons Lab Antwerpen (nog) geen gebruik van open source sof
 - CMS website bij Squarespace
 - aanzet to CRM bij Hubspot
 
+In de organisatie zijn personen actief met ervaring met en allertheid voor eerlijke (open source) software. Momenteel worden deze voorstellen gesignaleerd in het slack kanaal van Commons lab, bediscussieerd maar er is geen structurele manier om met deze voorstellen om te gaan. 
+
 ## Mailserver en filesharing
 Zelf een mailserver met open source software opzetten en laten draaien vraagt heel wat onderhoud (en bijhorende kosten) om hetzelfde aanbod te bekomen als Google of Microsoft aanbieden. Zeker wanneer je ook kijkt naar de aan het systeem gekoppelde filesharing systeem van 1 TB. Ik denk dat we die middelen, energie en tijd beter steken in het uitwerken van goede open source pakketten voor kerntaken van de organisatie in tegenstelling tot de ondersteunende mail en filesharing.
 
