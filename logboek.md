@@ -19,4 +19,15 @@ Aanpassingsvoorstel na de eerste twee brainstormsessies:
 4. Een volledige kopie maken van de huidige site heeft nog geen aangegeven doel. Dit deel van het project wordt op pauze gezet. -2 dagen
 5. De resterende dag kan ingezet worden voor: online training, Experimenten rond ecommerce of Automatiseringen administratie
 
-## rapporten
+## timing
+In de eerste fase vindt een uitrol van office 365 plaats: 
+- half oktober: in gebruikname door dagelijks bestuur
+- vrijdag 30 oktober: voorstelling op freelanceteam
+- in week 2-7 november: digitaal vragenuurtje voor freelancers
+
+De digitale strategie en werkmethode wordt voorgesteld begin december zodat deze mee kan genomen worden in de planningsweek, om daartoe te komen worden nog volgende stappen genomen: 
+- brainstormsessie met freelancers: half november
+
+Ondersteunend worden volgende digitale werven ook aangepakt in de uitwerking van de digitale strategie: 
+- CRM tool: Thijs en Christophe zitten samen eerste week van november
+- trainingsmateriaal beschikbaar eind november
