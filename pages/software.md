@@ -23,7 +23,7 @@ Drupal, het andere sterke php based framework, zet ook sterk in op haar open sou
 Wordpress + Woocommerce vs. Shopify vs. ....
 
 ### Leerplatformen
-Wordpress + Learnpress vs ...
+Wordpress + Learnpress vs Moodle
 
 ### Open data
 In het Wordpress pakket zit ook een [REST API](https://developer.wordpress.org/rest-api/) ingebouwd. Het is dus mogelijk om de data van Commons Lab via een API te ontsluiten. Bij het ontwerp van elke website dient dus ook de afweging gemaakt te worden: welke tabellen/Data en in welke vorm willen we uit deze website ontsluiten zodat andere organisaties en individuën hiermee aan de slag kunnen gaan.
