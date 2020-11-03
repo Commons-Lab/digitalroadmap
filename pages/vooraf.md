@@ -44,5 +44,7 @@ Enkele kenmerken van de (huidige) medewerkers en gebruikers van de commons lab i
 ## Data = verantwoordelijkheid
 Naast publieke data i.v.m commons experimenten gaan we in veel processen ook om met persoonsgegevens van freelancers, vrijwilligers, andere organisaties. Commons Lab besteedt hier aandacht aan en zorgt dat de organisatie voldoet aan de gdpr richtlijnen. Hiervoor steunen we op de tools die unizo heeft uitgewerkt [link](https://www.unizo.be/advies/trefwoord/gdpr#doe) en maken we de vertaalslag van deze tools gericht om Commons Initiatieven. 
 
+Naar het voorbeeld van Helsinke en Amsterdam [link naar artikel](https://thenextweb.com/neural/2020/09/28/amsterdam-and-helsinki-become-first-cities-to-launch-ai-registers-explaining-how-they-use-algorithms/) bouwen we een publiek register op dat toont hoe we met data aan de slag gaan. We onderzoeken hoe we ook de commons ideologie in het datagebruik kunnen inzetten. 
+
 ## Redundantie
 
