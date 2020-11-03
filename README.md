@@ -13,12 +13,12 @@ Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoud
 ## Inhoudstafel
 0. [Vooraf](pages/vooraf.md)
 1. [Analyse van de huidige werkwijze](pages/analyse.md)
-    0. [algemeen, flows, processen](pages/analyse.md))
-    1. [E-mail en filesharing](pages/partners.md)
-    2. [(open source) softwarepaketten](pages/software.md)
-    3. [eigen ontwikkelde applicaties](pages/development.md)
-    4. [hosting en omgevingen](pages/hosting.md)
-    5. [administratie en boekhouding](pages/administratie.md)
+    1. [algemeen, flows, processen](pages/analyse.md))
+    2. [E-mail en filesharing](pages/partners.md)
+    3. [(open source) softwarepaketten](pages/software.md)
+    4. [eigen ontwikkelde applicaties](pages/development.md)
+    5. [hosting en omgevingen](pages/hosting.md)
+    6. [administratie en boekhouding](pages/administratie.md)
 3. De digitale wervan van Commons Lab
     1. [algemene tools (mail, bestanden, ...)](pages/algemenetools.md)
     2. projectmanagement
