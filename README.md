@@ -13,8 +13,8 @@ Vanuit die optiek is ook deze roadmap opgebouwd als een werkdocument dat eenvoud
 ## Inhoudstafel
 0. [Vooraf](pages/vooraf.md)
 1. [Analyse van de huidige werkwijze](pages/analyse.md)
-2. Gebruikte partners, tools en apps
-    1. [Licenties en abonnementen](pages/partners.md)
+    0. [algemeen, flows, processen](pages/analyse.md))
+    1. [E-mail en filesharing](pages/partners.md)
     2. [(open source) softwarepaketten](pages/software.md)
     3. [eigen ontwikkelde applicaties](pages/development.md)
     4. [hosting en omgevingen](pages/hosting.md)
